@@ -22,7 +22,7 @@ Or clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/readme-md-generator.git
+git clone https://github.com/Anubhab-anjan/readme-md-generator/tree/main/readme_md_generator
 cd readme-md-generator
 python setup.py install
 📌 Usage
